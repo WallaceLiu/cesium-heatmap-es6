@@ -109,16 +109,23 @@ import { CesiumHeatmap, HeatmapPoint } from "cesium-heatmap-es6"
 ```
 
 # 源码使用方法
+
+## 环境 
+- cnpm@9.2.0 
+- npm@9.6.6
+- node@16.20.0
+- vue2
+
 ## 依赖安装
 `cnpm run a --force`
 
-没有改参数--force可能三方包安不上
+没有该参数--force可能三方包安不上
 
 ## 项目运行
 `cnpm start`
 
 ## 项目打包
-`npm run build`
+`cnpm run build`
 
 ## 发布
-`npm run release`
+`cnpm run release`
