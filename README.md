@@ -110,10 +110,12 @@ import { CesiumHeatmap, HeatmapPoint } from "cesium-heatmap-es6"
 
 # 源码使用方法
 ## 依赖安装
-`npm run a`
+`cnpm run a --force`
+
+没有改参数--force可能三方包安不上
 
 ## 项目运行
-`npm start`
+`cnpm start`
 
 ## 项目打包
 `npm run build`
