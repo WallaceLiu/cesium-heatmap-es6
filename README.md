@@ -129,3 +129,7 @@ import { CesiumHeatmap, HeatmapPoint } from "cesium-heatmap-es6"
 
 ## 发布
 `cnpm run release`
+
+## 启动
+npm安装http-server，进入到build目录执行
+http-server
