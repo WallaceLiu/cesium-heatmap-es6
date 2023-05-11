@@ -15,6 +15,8 @@
 4. 源码ts编写，发布支持es6和umd两种模式
 5. [支持npm安装](https://www.npmjs.com/package/cesium-heatmap-es6)
 
+`这个例子提供的比较全面，能对heatmap设置参数，并能设置透明度`
+
 # 效果图
 
 ![效果图](https://img-blog.csdnimg.cn/d6f7e8f5cc8c459db86fd54a4462b3df.gif#pic_center)
